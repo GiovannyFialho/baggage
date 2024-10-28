@@ -9,7 +9,8 @@ import { fetchBags } from "@/app/api";
 export default function Home() {
   const { data, isLoading } = useQuery({
     queryFn: () => fetchBags(),
-    queryKey: ["bags"]
+    queryKey: ["bags"],
+    staleTime: Infinity
   });
 
   if (isLoading) {

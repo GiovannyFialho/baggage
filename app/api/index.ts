@@ -8,7 +8,7 @@ const bags = [
     name: "Mala de Bordo Swiss Go Londres",
     description:
       "Mala de bordo prática com cadeado integrado e rodas com giro 360º. Ideal para viagens seguras.",
-    price: "R$216,50"
+    price: "$216,50"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const bags = [
     name: "Mala Média Samsonite Preta",
     description:
       "Mala média, estrutura leve e resistente, com rodas giratórias e cadeado TSA integrado.",
-    price: "R$320,00"
+    price: "$320,00"
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ const bags = [
     name: "Mala Expansível Gênova Azul",
     description:
       "Mala expansível, design elegante, com zíper reforçado e compartimento para laptop.",
-    price: "R$275,99"
+    price: "$275,99"
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const bags = [
     name: "Mala de Viagem Delsey 4 Rodas",
     description:
       "Design clássico, leve e robusto, com quatro rodas multidirecionais e divisórias internas.",
-    price: "R$450,50"
+    price: "$450,50"
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ const bags = [
     name: "Mala de Rodinhas Executiva Preta",
     description:
       "Mala executiva compacta, ideal para viagens de negócios, com alça retrátil e cadeado embutido.",
-    price: "R$189,99"
+    price: "$189,99"
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ const bags = [
     name: "Mala Grande Santino Vermelha",
     description:
       "Espaçosa, com compartimentos organizados e fechamento seguro. Rodas giratórias e alça ergonômica.",
-    price: "R$499,00"
+    price: "$499,00"
   },
   {
     id: 7,
@@ -62,7 +62,7 @@ const bags = [
     name: "Mala de Viagem Batiki",
     description:
       "Mala prática e leve, com zíperes reforçados e acabamento resistente. Ideal para viagens curtas.",
-    price: "R$239,90"
+    price: "$239,90"
   },
   {
     id: 8,
@@ -71,7 +71,7 @@ const bags = [
     name: "Mala Rígida Travelux Azul",
     description:
       "Feita de material rígido para proteção extra, com cadeado embutido e quatro rodas.",
-    price: "R$380,75"
+    price: "$380,75"
   },
   {
     id: 9,
@@ -80,7 +80,7 @@ const bags = [
     name: "Mala de Bordo Executiva Preta",
     description:
       "Compacta e moderna, com compartimentos para notebook e documentos. Ideal para viagens de negócios.",
-    price: "R$280,60"
+    price: "$280,60"
   },
   {
     id: 10,
@@ -89,7 +89,7 @@ const bags = [
     name: "Mala Grande Polo King",
     description:
       "Modelo robusto e espaçoso, com acabamento premium e sistema de rodinhas giratórias.",
-    price: "R$420,00"
+    price: "$420,00"
   },
   {
     id: 11,
@@ -98,7 +98,7 @@ const bags = [
     name: "Mala Viagem Master Preta",
     description:
       "Ideal para viagens longas, feita com material de alta durabilidade e rodas com giro 360º.",
-    price: "R$470,99"
+    price: "$470,99"
   },
   {
     id: 12,
@@ -107,7 +107,7 @@ const bags = [
     name: "Mala Pequena Qualitex Rosa",
     description:
       "Compacta e charmosa, com alça ajustável e design exclusivo para viagens curtas.",
-    price: "R$199,90"
+    price: "$199,90"
   },
   {
     id: 13,
@@ -116,7 +116,7 @@ const bags = [
     name: "Mala Média Primicia Prata",
     description:
       "Modelo resistente e leve, com acabamento metálico e divisórias internas.",
-    price: "R$355,75"
+    price: "$355,75"
   },
   {
     id: 14,
@@ -125,7 +125,7 @@ const bags = [
     name: "Mala Samsonite Expansível",
     description:
       "Material leve e resistente, expansível para mais espaço e sistema de cadeado TSA.",
-    price: "R$399,00"
+    price: "$399,00"
   },
   {
     id: 15,
@@ -134,7 +134,7 @@ const bags = [
     name: "Mala Executiva Luxcel Azul",
     description:
       "Mala executiva elegante, com compartimento para laptop e rodinhas silenciosas.",
-    price: "R$279,80"
+    price: "$279,80"
   },
   {
     id: 16,
@@ -143,7 +143,7 @@ const bags = [
     name: "Mala Pequena Kipling Preta",
     description:
       "Compacta e resistente, ideal para viagens de curta duração e com alça acolchoada.",
-    price: "R$210,50"
+    price: "$210,50"
   },
   {
     id: 17,
@@ -152,7 +152,7 @@ const bags = [
     name: "Mala de Bordo ABS Vermelha",
     description:
       "Material ABS de alta resistência, com rodinhas giratórias e alça telescópica.",
-    price: "R$260,30"
+    price: "$260,30"
   },
   {
     id: 18,
@@ -161,7 +161,7 @@ const bags = [
     name: "Mala Grande Hardside Cinza",
     description:
       "Estrutura rígida e durável, com cadeado de segurança e rodas que giram 360º.",
-    price: "R$499,99"
+    price: "$499,99"
   },
   {
     id: 19,
@@ -170,7 +170,7 @@ const bags = [
     name: "Mala Média Polo Travel",
     description:
       "Modelo leve e expansível, com divisórias organizadoras e alça ergonômica.",
-    price: "R$310,60"
+    price: "$310,60"
   },
   {
     id: 20,
@@ -179,14 +179,12 @@ const bags = [
     name: "Mala Grande Santino com 4 Rodas",
     description:
       "Modelo espaçoso com alta capacidade, ideal para viagens longas. Material resistente e fechamento seguro.",
-    price: "R$590,30"
+    price: "$590,30"
   }
 ];
 
 export const fetchBags = async (query = ""): Promise<Bag[]> => {
   await new Promise((resolve) => setTimeout(resolve, 1000));
-
-  console.log(`Fetched bags`);
 
   const filteredBags = bags.filter((bag) =>
     bag.name.toLocaleLowerCase().includes(query.toLocaleLowerCase())
